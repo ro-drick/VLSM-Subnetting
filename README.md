@@ -25,7 +25,7 @@ This project involves subnetting the `192.168.5.0/24` network using Variable Len
 
 ## Network Diagram
 
-![Network Diagram](VLSM-subnetting.PNG)
+![Network Diagram](https://github.com/ro-drick/VLSM-Subnetting/blob/main/VLSM-subnetting.PNG)
 
 ---
 
